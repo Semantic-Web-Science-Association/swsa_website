@@ -1,0 +1,69 @@
+# Theme
+minimal_mistakes_skin: "default"
+
+# Site settings
+locale: "en-US"
+title: "Semantic Web Software Architecture"
+title_separator: "-"
+description: "SWSA website"
+name: "SWSA"
+
+url: "https://semantic-web-science-association.github.io"
+baseurl: "/swsa_website"
+
+
+logo: "/assets/images/swsa_logo.png"
+
+masthead_title: " "
+
+# Header / Navigation
+header:
+  nav: main
+  show_title: false
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-include-cache
+
+
+exclude:
+  - vendor
+  - node_modules
+  - Gemfile
+  - Gemfile.lock
+  - README
+  - LICENSE
+  - minimal-mistakes-jekyll.gemspec
+  - package.json
+  - package-lock.json
+  - Rakefile
+  - /docs
+  - /test
+
+include:
+  - _pages
+
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+
+atom_feed:
+  hide: true
+
+footer:
+  links: []
+  since:
+copyright: ""
+
+atom_feed:
+  hide: true

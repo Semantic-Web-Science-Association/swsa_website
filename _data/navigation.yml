@@ -1,0 +1,27 @@
+main:
+  - title: "Home"
+    url: /
+
+  - title: "About"
+    url: /about/
+
+  - title: "Members"
+    url: /members/
+
+  - title: "Conferences"
+    url: /conferences/
+
+  - title: "Resources"
+    url: /resources/
+
+  - title: "Awards"
+    url: /awards/
+
+  - title: "Host ISWC"
+    url: /host-iswc/
+
+  - title: "News"
+    url: /news/
+
+  - title: "Contact"
+    url: /contact/
