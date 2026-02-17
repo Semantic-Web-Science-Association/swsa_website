@@ -1,8 +1,7 @@
 ---
 title: SWSA Ten-Year Award
 layout: single
-permalink: /content/swsa-ten-year-award/
-classes: wide
+permalink: /awards/swsa-ten-year-award/
 ---
 
 The SWSA Ten-Year Award recognizes the highest impact papers from the ISWC proceedings ten years prior (i.e., in 2011 we honor a paper from 2001). The decision is based primarily, but not exclusively, on the number of citations to the papers from the proceedings in the intervening decade.

@@ -12,6 +12,10 @@ url: "https://semantic-web-science-association.github.io"
 baseurl: ""
 
 collections:
+  awards:
+    output: true
+    permalink: /awards/:name/
+
   conferences:
     output: false
     permalink: /conferences/:name/
