@@ -7,3 +7,51 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+
+
+:root {
+  --container-max: 72rem;  /* whole page width */
+  --content-max: 50rem;    /* main column width */
+  --sidebar-w: 18rem;      /* sidebar width */
+  --gap: 1.5rem;
+}
+
+/* Make the whole main area a consistent left-aligned container */
+#main {
+  max-width: var(--container-max);
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+}
+
+/* Main column: consistent position on all pages */
+#main > article.page {
+  max-width: var(--content-max);
+}
+
+/* Mobile: no sidebar */
+@media (max-width: 63.999em) {
+  .has-home-sidebar #main > .sidebar__right {
+    display: none !important;
+  }
+}
+
+/* Desktop: sidebar pages become 2-column, without moving the left edge of content */
+@media (min-width: 64em) {
+  .has-home-sidebar #main {
+    display: flex;
+    align-items: flex-start;
+    gap: var(--gap);
+  }
+
+  .has-home-sidebar #main > article.page {
+    flex: 0 0 var(--content-max);
+  }
+
+  .has-home-sidebar #main > .sidebar__right {
+    display: block;
+    flex: 0 0 var(--sidebar-w);
+  }
+}
