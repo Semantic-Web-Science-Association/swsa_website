@@ -12,7 +12,7 @@
         {{ latest_conf.location }}<br>
         {{ latest_conf.start_date | date: "%B %-d" }} – {{ latest_conf.end_date | date: "%-d, %Y" }}
         {% if latest_conf.website %}
-        <br><a href="{{ latest_conf.website }}">Website</a>
+        <br><a href="{{ latest_conf.website }}" target="_blank">Website</a>
         {% endif %}
     </p>
     {% else %}
