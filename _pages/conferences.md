@@ -9,7 +9,7 @@ permalink: /conferences/
 
 The International Semantic Web Conference (ISWC) is the leading conference for research on Semantic Web topics. It is held annually and is the successor of the Semantic Web Working Symposium (SWWS).
 
-The [SWSA Ten-Year Award]({{ "/content/swsa-ten-year-award/" | relative_url }}) recognizes most influential papers from the ISWC proceedings ten years prior.
+The [SWSA Ten-Year Award]({{ "/awards/swsa-ten-year-award/" | relative_url }}) recognizes most influential papers from the ISWC proceedings ten years prior.
 
 The [Code of conduct for ISWC]({{ "/content/code-of-conduct/" | relative_url }}) delineates the behavioural norms expected of ISWC attendees.
 
