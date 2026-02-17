@@ -1,0 +1,40 @@
+<div class="sidebar__right sticky">
+    <h3>Most Recent ISWC</h3>
+
+    {% assign conferences = site.conferences %}
+    {% if conferences and conferences.size > 0 %}
+    {% assign latest_conf = conferences | sort: "start_date" | last %}
+
+    <p>
+        <strong>
+            <a href="{{ latest_conf.url | relative_url }}">{{ latest_conf.title }}</a>
+        </strong><br>
+        {{ latest_conf.location }}<br>
+        {{ latest_conf.start_date | date: "%B %-d" }} – {{ latest_conf.end_date | date: "%-d, %Y" }}
+        {% if latest_conf.website %}
+        <br><a href="{{ latest_conf.website }}">Website</a>
+        {% endif %}
+    </p>
+    {% else %}
+    <p><em>No conference information available.</em></p>
+    {% endif %}
+
+    <hr>
+
+    <h3>Latest News</h3>
+
+    {% assign news_items = site.news %}
+    {% if news_items and news_items.size > 0 %}
+    {% assign latest_news = news_items | sort: "date" | last %}
+
+    <p>
+        <strong>
+            <a href="{{ latest_news.url | relative_url }}">{{ latest_news.title }}</a>
+        </strong><br>
+        <small>{{ latest_news.date | date: "%B %-d, %Y" }}</small><br>
+        {{ latest_news.excerpt | strip_html | truncate: 140 }}
+    </p>
+    {% else %}
+    <p><em>No news available.</em></p>
+    {% endif %}
+</div>

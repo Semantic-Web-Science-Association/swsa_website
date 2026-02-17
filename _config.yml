@@ -11,6 +11,18 @@ name: "SWSA"
 url: "https://semantic-web-science-association.github.io"
 baseurl: ""
 
+collections:
+  conferences:
+    output: true
+    permalink: /conferences/:name/
+
+  news:
+    output: true
+    permalink: /news/:name/
+
+  content:
+    output: true
+    permalink: /content/:name/
 
 logo: "/assets/images/swsa_logo.png"
 
