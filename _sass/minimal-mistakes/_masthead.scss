@@ -89,3 +89,8 @@
     font-weight: 700;
   }
 }
+
+.masthead__menu-item.active a {
+  font-weight: 700;
+  text-decoration: underline;
+}

@@ -9,7 +9,7 @@ description: "SWSA website"
 name: "SWSA"
 
 url: "https://semantic-web-science-association.github.io"
-baseurl: "/swsa_website"
+baseurl: ""
 
 
 logo: "/assets/images/swsa_logo.png"
