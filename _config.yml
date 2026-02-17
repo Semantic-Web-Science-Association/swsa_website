@@ -21,7 +21,7 @@ collections:
     permalink: /conferences/:name/
 
   news:
-    output: true
+    output: false
     permalink: /news/:name/
 
   content:

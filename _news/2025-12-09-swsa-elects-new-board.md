@@ -1,9 +1,17 @@
 ---
-title: "SWSA elects new management board for the next three years"
+title: SWSA elects new board
+date: 2025-12-09
 layout: single
-date: 2025-12-09 10:09
+permalink: /news/swsa-elects-new-board/
 ---
 
-The Semantic Web Science Association (SWSA) has announced the election of a new management board, to serve for the next three years.
+The Semantic Web Science Association (SWSA) has elected its new Management Committee.
 
-More details can be added here.
+### Management Committee
+
+- **President:** Elena Simperl (UK)
+- **Vice-presidents:** Lalana Kagal (USA), John Domingue (UK)
+- **Secretary:** Edward Curry (Ireland)
+- **Treasurer:** Harald Sack (Germany)
+
+We thank all members of the community for their continued support and engagement.

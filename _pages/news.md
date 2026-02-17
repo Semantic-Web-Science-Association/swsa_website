@@ -6,11 +6,12 @@ permalink: /news/
 
 {% assign news_sorted = site.news | sort: "date" | reverse %}
 
-{% for item in news_sorted %}
-### [{{ item.title }}]({{ item.url | relative_url }})
+{% for post in news_sorted %}
+## {{ post.title }}
 
-<small>{{ item.date | date: "%B %-d, %Y" }}</small>
+*{{ post.date | date: "%B %-d, %Y" }}*
 
-{{ item.excerpt | strip_html | truncate: 220 }}
+{{ post.content }}
 
+<hr>
 {% endfor %}
