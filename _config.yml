@@ -13,7 +13,7 @@ baseurl: ""
 
 collections:
   conferences:
-    output: true
+    output: false
     permalink: /conferences/:name/
 
   news:

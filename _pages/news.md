@@ -2,7 +2,6 @@
 title: News
 layout: single
 permalink: /news/
-classes: wide
 ---
 
 {% assign news_sorted = site.news | sort: "date" | reverse %}
