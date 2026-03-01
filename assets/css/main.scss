@@ -10,36 +10,54 @@ search: false
 
 
 
+/* ---------------------------------------------------------------
+   Responsive home-page with sidebar
+   --------------------------------------------------------------- */
+
 :root {
-  --container-max: 85rem;  /* whole page width */
-  --content-max: 63rem;    /* main column width */
-  --sidebar-w: 18rem;      /* sidebar width */
+  --sidebar-w: 18rem;
   --gap: 1.5rem;
 }
 
-/* Make the whole main area a consistent left-aligned container */
+/*
+ * Constrain the whole page with proper padding so nothing
+ * ever overflows the viewport on any screen size.
+ */
 #main {
-  max-width: var(--container-max);
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
+  max-width: 80rem;               /* ≈ 1280px, matches theme $max-width */
+  margin-inline: auto;
+  padding-inline: 1rem;
+  box-sizing: border-box;
+  overflow-wrap: break-word;
+  word-break: break-word;
 }
 
-/* Main column: consistent position on all pages */
+/*
+ * The content article should never exceed a readable width
+ * but must be allowed to shrink on narrow viewports.
+ */
 #main > article.page {
-  max-width: var(--content-max);
+  max-width: 100%;
+  box-sizing: border-box;
 }
 
-/* Mobile: no sidebar */
+/* ---- Small screens (< 64em / 1024px): single column ---- */
 @media (max-width: 63.999em) {
   .has-home-sidebar #main > .sidebar__right {
-    display: none !important;
+    display: none !important;          /* hide sidebar on mobile */
+  }
+
+  #main {
+    padding-inline: 1rem;
+  }
+
+  #main > article.page {
+    width: 100%;
   }
 }
 
-/* Desktop: sidebar pages become 2-column, without moving the left edge of content */
-@media (min-width: 64em) {
+/* ---- Medium screens (64em – 79.999em) ---- */
+@media (min-width: 64em) and (max-width: 79.999em) {
   .has-home-sidebar #main {
     display: flex;
     align-items: flex-start;
@@ -47,11 +65,41 @@ search: false
   }
 
   .has-home-sidebar #main > article.page {
-    flex: 0 0 var(--content-max);
+    flex: 1 1 0%;                     /* grow/shrink freely */
+    min-width: 0;                     /* allow shrink past content size */
+  }
+
+  .has-home-sidebar #main > .sidebar__right {
+    display: block;
+    flex: 0 0 var(--sidebar-w);
+    max-width: var(--sidebar-w);
+  }
+}
+
+/* ---- Large screens (≥ 80em / 1280px) ---- */
+@media (min-width: 80em) {
+  .has-home-sidebar #main {
+    display: flex;
+    align-items: flex-start;
+    gap: var(--gap);
+  }
+
+  .has-home-sidebar #main > article.page {
+    flex: 1 1 0%;
+    min-width: 0;
+    max-width: calc(100% - var(--sidebar-w) - var(--gap));
   }
 
   .has-home-sidebar #main > .sidebar__right {
     display: block;
     flex: 0 0 var(--sidebar-w);
   }
+}
+
+/* Prevent images / embeds from blowing out their container */
+.has-home-sidebar img,
+.has-home-sidebar iframe,
+.has-home-sidebar video {
+  max-width: 100%;
+  height: auto;
 }
