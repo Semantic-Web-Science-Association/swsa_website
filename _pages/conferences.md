@@ -15,7 +15,7 @@ The [Code of conduct for ISWC]({{ "/content/code-of-conduct/" | relative_url }})
 
 The [Semantic Web Conference Corpus](http://scholarlydata.org/) provides access to information about all ISWC conferences in RDF. You can browse and search information on papers that were presented, people who attended, and other things that have to do with the main conferences and workshops.
 
-## European Semantic Web Conference (ESWC)
+## Extended Semantic Web Conference (ESWC)
 
 SWSA has become the steward of ESWC in June 2025. More information about the conference series can be found [here](https://eswc-conferences.org/index.html).
 

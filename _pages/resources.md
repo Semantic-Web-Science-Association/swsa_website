@@ -22,6 +22,6 @@ This page contains resources collected by the Semantic Web community. If you wou
 ### Conferences
 
 - [International Semantic Web Conference]({{ "/conferences/" | relative_url }})
-- [European Semantic Web Conference](http://www.eswc-conferences.org)
+- [Extended Semantic Web Conference](http://www.eswc-conferences.org)
 - [Joint International Semantic Technology Conference](http://jist2018.knowledge-graph.jp/)
 - [International SWAT4LS Workshop](http://www.swat4ls.org): Semantic Web an Applications for the Life Sciences
