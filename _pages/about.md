@@ -22,5 +22,6 @@ Fulfilment of the association's objectives include, a.o.
 - supervison of the organisation of the **[European Semantic Web Conference series (ESWC)](https://eswc-conferences.org/)**;
 - the organisation and support of workshops, tutorials, or summer schools in the field of the Semantic Web,
 - co-operation with scientific journals related to the Semantic Web, see [Elsevier's](https://www.elsevier.com/en-gb) Journal of [Web Semantics: Science, Services and Agents on the World Wide Web](https://www.journals.elsevier.com/journal-of-web-semantics/) and the open-access [Transactions of Graph Data and Knowledge (TGDK)](https://tgdk.org/)
+- <a href="{{ '/assets/files/SWSA-ESWC-Hosting-Guide v 1.0_0.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">ESWC Hosting Guide</a>
 
 In order to realise its objectives, the association is allowed to co-operate with other scientific associations, institutions or companies, including membership in other organisations having similar objectives.
