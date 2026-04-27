@@ -19,6 +19,9 @@ main:
 
   - title: "Host ISWC"
     url: /host-iswc/
+  
+  - title: "Host ESWC"
+    url: /host-eswc/
 
   - title: "News"
     url: /news/

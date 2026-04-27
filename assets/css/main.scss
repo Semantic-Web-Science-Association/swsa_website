@@ -32,6 +32,25 @@ search: false
   word-break: break-word;
 }
 
+/* Make masthead/navigation wider */
+.masthead__inner-wrap {
+    max-width: 1800px !important;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
+/* Give nav more room */
+.greedy-nav {
+    max-width: 95% !important;
+}
+
+/* Optional: slightly reduce font so more items fit */
+.greedy-nav .visible-links a {
+    font-size: 0.9em;
+    padding-left: 0.7rem;
+    padding-right: 0.7rem;
+}
+
 /*
  * The content article should never exceed a readable width
  * but must be allowed to shrink on narrow viewports.
