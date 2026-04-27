@@ -5,11 +5,12 @@ permalink: /members/
 
 ## **Management Committee**
 
-| *President:* | [**Elena Simperl**](http://www.ecs.soton.ac.uk/people/es6g12), UK |
-| *Vice-presidents:* | [Lalana Kagal](http://www.csail.mit.edu/person/lalana-kagal), USA<br>[John Domingue](https://profiles.open.ac.uk/john-domingue), UK |
-| *Secretary:* | [Edward Curry](https://www.insight-centre.org/our-team/dr-edward-curry/), Ireland |
-| *Treasurer:* | [**Harald Sack**](https://www.aifb.kit.edu/web/Harald_Sack/en), Germany |
-| *Past President:* | [**Elena Simperl**](http://www.ecs.soton.ac.uk/people/es6g12), UK |
+- **President:** **[Elena Simperl](http://www.ecs.soton.ac.uk/people/es6g12)**, UK
+- **Vice-presidents:** **[Lalana Kagal](http://www.csail.mit.edu/person/lalana-kagal)**, USA<br>
+**[John Domingue](https://profiles.open.ac.uk/john-domingue)**, UK 
+- **Secretary:** **[Edward Curry](https://www.insight-centre.org/our-team/dr-edward-curry/)**, Ireland 
+- **Treasurer:** **[Harald Sack](https://www.aifb.kit.edu/web/Harald_Sack/en)**, Germany
+- **Past President:** **[Elena Simperl](http://www.ecs.soton.ac.uk/people/es6g12)**, UK
 
 ## **Members**
 
