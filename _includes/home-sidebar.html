@@ -1,20 +1,23 @@
 <div class="sidebar__right sticky">
-    <h3>Most Recent ISWC</h3>
+    <h3>Most Recent ISWC Conferences</h3>
 
-    {% assign conferences = site.conferences %}
+    {% assign conferences = site.conferences | sort: "start_date" | reverse %}
+
     {% if conferences and conferences.size > 0 %}
-    {% assign latest_conf = conferences | sort: "start_date" | last %}
 
+    {% for conf in conferences limit:2 %}
     <p>
         <strong>
-            <a href="{{ latest_conf.url | relative_url }}">{{ latest_conf.title }}</a>
+            <a href="{{ conf.url | relative_url }}">{{ conf.title }}</a>
         </strong><br>
-        {{ latest_conf.location }}<br>
-        {{ latest_conf.start_date | date: "%B %-d" }} – {{ latest_conf.end_date | date: "%-d, %Y" }}
-        {% if latest_conf.website %}
-        <br><a href="{{ latest_conf.website }}" target="_blank">Website</a>
+        {{ conf.location }}<br>
+        {{ conf.start_date | date: "%B %-d" }} – {{ conf.end_date | date: "%-d, %Y" }}
+        {% if conf.website %}
+        <br><a href="{{ conf.website }}" target="_blank">Website</a>
         {% endif %}
     </p>
+    {% endfor %}
+
     {% else %}
     <p><em>No conference information available.</em></p>
     {% endif %}
