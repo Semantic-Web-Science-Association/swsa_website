@@ -58,8 +58,11 @@ permalink: /contact/
     <br><br>
 
     <strong>Follow us</strong><br>
-    <a href="https://twitter.com/SemWebSA" target="_blank">
-      Twitter (@SemWebSA)
+    <a href="https://www.linkedin.com/company/eswc-conf/" target="_blank">
+      LinkedIn - ESWC
+    </a>
+    <a href="https://www.linkedin.com/company/iswc/" target="_blank">
+      LinkedIn - ISWC
     </a>
   </div>
 
