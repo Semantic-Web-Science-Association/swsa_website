@@ -3,6 +3,8 @@ title: "Call to Host the Extended Semantic Web Conference"
 permalink: /host-eswc/
 ---
 
+Applications for 2028 have closed. The call to host ESWC2029 will be open early 2027 at the latest.
+
 The Semantic Web Science Association (<a href="{{ '/' | relative_url }}" target="_blank" rel="noopener"><strong>SWSA</strong></a>) is seeking statements of interest from organizations or consortia interested in hosting the 25th Extended Semantic Web Conference, ESWC 2028. The conference will take place in Europe in the second half of May or first week of June 2028.
 
 Organizations wishing to host it should contact <a href="mailto:john.domingue@open.ac.uk?subject=Hosting%20ESWC%202028"><strong>Prof John Domingue</strong></a> who will work with the SWSA members to coordinate the bidding process. Any organization may apply to host the conference, but the local organizing committee <strong>must</strong> include a representative of a local research group with a track record in semantic technologies.
