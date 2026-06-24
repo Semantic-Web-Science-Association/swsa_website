@@ -20,10 +20,6 @@ collections:
     output: false
     permalink: /conferences/:name/
 
-  news:
-    output: false
-    permalink: /news/:name/
-
   content:
     output: true
     permalink: /content/:name/

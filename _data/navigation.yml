@@ -11,9 +11,6 @@ main:
   - title: "Conferences"
     url: /conferences/
 
-  - title: "Resources"
-    url: /resources/
-
   - title: "Awards"
     url: /awards/
 
@@ -22,9 +19,6 @@ main:
   
   - title: "Host ESWC"
     url: /host-eswc/
-
-  - title: "News"
-    url: /news/
 
   - title: "Contact"
     url: /contact/

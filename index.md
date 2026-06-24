@@ -1,8 +1,8 @@
 ---
-title: SWSA welcomes the ESWC Conference Seriese
+title: SWSA welcomes the ESWC Conference Series
 layout: single
 permalink: /
-classes: wide has-home-sidebar
+classes: single 
 author_profile: false
 ---
 

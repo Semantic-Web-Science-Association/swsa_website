@@ -61,8 +61,13 @@ permalink: /contact/
     <a href="https://www.linkedin.com/company/eswc-conf/" target="_blank">
       LinkedIn - ESWC
     </a>
+    <br/>
     <a href="https://www.linkedin.com/company/iswc/" target="_blank">
       LinkedIn - ISWC
+    </a>
+    <br/>
+    <a href="https://www.linkedin.com/company/semantic-web-science-association-swsa/" target="_blank">
+      LinkedIn - Semantic Web Science Association (SWSA)
     </a>
   </div>
 
