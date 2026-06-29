@@ -21,6 +21,38 @@ SWSA has become the steward of ESWC in June 2025. More information about the con
 
 ---
 
+## Upcoming conferences
+
+### ESWC 2027
+
+**Location and dates to be announced**
+
+Website: [https://eswc-conferences.org/](https://eswc-conferences.org/)
+
+### ISWC 2027
+
+**Location to be announced** — October/November 2027
+
+Official call: [Call to Host ISWC 2027]({{ "/host-iswc/" | relative_url }})
+
+### ESWC 2026
+
+**Dubrovnik, Croatia** — May 10, 2026 – May 14, 2026
+
+Website: [https://2026.eswc-conferences.org/](https://2026.eswc-conferences.org/)
+
+Chairs:
+- General Chair: Maribel Acosta
+- Local Chairs: Marija Komatar Pitea, Marko Grobelnik
+
+### ISWC 2026
+
+**Bari, Italy** — October 25, 2026 – October 29, 2026
+
+Website: [https://iswc2026.semanticweb.org/](https://iswc2026.semanticweb.org/)
+
+---
+
 # Past conferences
 
 {% assign conf_sorted = site.conferences | sort: "start_date" | reverse %}
@@ -32,6 +64,13 @@ SWSA has become the steward of ESWC in June 2025. More information about the con
 
 {% if c.website %}
 Website: [{{ c.website }}]({{ c.website }})
+{% endif %}
+
+{% if c.chairs %}
+Chairs:
+{% for chair in c.chairs %}
+- {{ chair }}
+{% endfor %}
 {% endif %}
 
 {% if c.attendees or c.papers_accepted or c.papers_submitted or c.tutorials or c.workshops %}

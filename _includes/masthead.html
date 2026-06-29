@@ -4,19 +4,20 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       {% unless logo_path == empty %}
-      <div class="site-logo-wrapper" style="display: flex; justify-content: center; align-items: center; width: 100%; padding: 1.5rem 0;
-    ">
+      <div class="site-logo-wrapper">
         <a class="site-logo" href="{{ '/' | relative_url }}">
-          <img src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}"
-            style="max-height: 200px; width: auto; display: inline-block;">
+          <img src="{{ logo_path | relative_url }}" alt="{{ site.title | escape_once | strip }}">
         </a>
       </div>
       {% endunless %}
       <nav id="site-nav" class="greedy-nav">
+        {% assign masthead_title = site.masthead_title | default: site.title | strip %}
+        {% unless masthead_title == empty %}
         <a class="site-title" href="{{ '/' | relative_url }}">
-          {{ site.masthead_title | default: site.title | escape_once | strip }}
+          {{ masthead_title | escape_once }}
           {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle | escape_once | strip }}</span>{% endif %}
         </a>
+        {% endunless %}
         <ul class="visible-links">
           {%- for link in site.data.navigation.main -%}
             {%- assign is_active = false -%}
