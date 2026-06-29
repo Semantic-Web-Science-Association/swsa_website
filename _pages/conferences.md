@@ -35,22 +35,6 @@ Website: [https://eswc-conferences.org/](https://eswc-conferences.org/)
 
 Official call: [Call to Host ISWC 2027]({{ "/host-iswc/" | relative_url }})
 
-### ESWC 2026
-
-**Dubrovnik, Croatia** — May 10, 2026 – May 14, 2026
-
-Website: [https://2026.eswc-conferences.org/](https://2026.eswc-conferences.org/)
-
-Chairs:
-- General Chair: Maribel Acosta
-- Local Chairs: Marija Komatar Pitea, Marko Grobelnik
-
-### ISWC 2026
-
-**Bari, Italy** — October 25, 2026 – October 29, 2026
-
-Website: [https://iswc2026.semanticweb.org/](https://iswc2026.semanticweb.org/)
-
 ---
 
 # Past conferences
