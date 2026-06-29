@@ -1,5 +1,5 @@
 ---
-title: SWSA welcomes the ESWC Conference Series
+title: Semantic Web Science Association
 layout: single
 permalink: /
 classes: single 
@@ -7,7 +7,7 @@ author_profile: false
 ---
 
 
-The Semantic Web Science Association (SWSA) is a non-profit organisation for promotion and exchange of the scholarly work in Semantic Web and related fields throughout the world. The main SWSA activities include:
+<strong>The Semantic Web Science Association (SWSA) is a non-profit organisation for promotion and exchange of the scholarly work in Semantic Web and related fields throughout the world</strong>. The main SWSA activities include:
 
 - supervision of the organisation of the [International Semantic Web Conference series (ISWC)](http://swsa.semanticweb.org/content/international-semantic-web-conference-iswc); see [Call for Bids](/host-iswc/) for further details.
 - supervison of the organisation of the **[European Semantic Web Conference series (ESWC)](https://eswc-conferences.org/)**;

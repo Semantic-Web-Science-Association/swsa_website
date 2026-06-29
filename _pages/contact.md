@@ -70,5 +70,4 @@ permalink: /contact/
       LinkedIn - Semantic Web Science Association (SWSA)
     </a>
   </div>
-
 </div>
