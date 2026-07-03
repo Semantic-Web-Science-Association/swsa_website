@@ -10,8 +10,7 @@ permalink: /contact/
   <div class="contact-form">
     <h2>Send us a message</h2>
 
-    <!-- Static form service ready (replace action later if needed) -->
-    <form>
+    <form id="contact-form" action="mailto:swsa-feedback@lists.kit.edu" method="post" enctype="text/plain">
       <label>
         Your name
         <input type="text" name="name" required>
@@ -34,6 +33,28 @@ permalink: /contact/
 
       <button type="submit">Send message</button>
     </form>
+
+    <script>
+      document.getElementById("contact-form").addEventListener("submit", function (event) {
+        event.preventDefault();
+
+        if (!this.checkValidity()) {
+          this.reportValidity();
+          return;
+        }
+
+        const formData = new FormData(this);
+        const subject = formData.get("subject");
+        const body = [
+          `Name: ${formData.get("name")}`,
+          `Email: ${formData.get("email")}`,
+          "",
+          formData.get("message")
+        ].join("\n");
+
+        window.location.href = `mailto:swsa-feedback@lists.kit.edu?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+      });
+    </script>
   </div>
 
   <!-- RIGHT: CONTACT DETAILS -->
