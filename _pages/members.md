@@ -17,27 +17,27 @@ permalink: /members/
 
 ## **Members**
 
-- **Harith Alani**, UK
-- **Pierre-Antoine Champin**, France
-- **Edward Curry**, Ireland
-- **Stefan Decker**, Germany
-- **John Domingue**, UK
-- **Miriam Fernandez**, UK
-- **Anna Lisa Gentile**, USA
-- **Andreas Harth**, Germany
-- **Jeff Heflin**, USA
-- **Jim Hendler**, USA
-- **Aidan Hogan**, Chile
-- **Albert Meroño Peñuela**, UK
-- **Ian Horrocks**, UK
-- **Lalana Kagal**, USA
-- **Paul Groth**, Netherlands
-- **Terry Payne**, UK
-- **Axel Polleres**, Austria
-- **Harald Sack**, Germany
-- **Elena Simperl**, UK
-- **Valentina Presutti**, Italy
-- **Raphael Troncy**, France
+- **[Harith Alani](https://kmi.open.ac.uk/people/member/harith-alani)**, UK
+- **[Pierre-Antoine Champin](https://perso.liris.cnrs.fr/pierre-antoine.champin/en/)**, France
+- **[Edward Curry](https://www.insight-centre.org/our-team/dr-edward-curry/)**, Ireland
+- **[Stefan Decker](https://www.stefandecker.org/)**, Germany
+- **[John Domingue](https://profiles.open.ac.uk/john-domingue)**, UK
+- **[Miriam Fernandez](https://kmi.open.ac.uk/people/member/miriam-fernandez)**, UK
+- **[Anna Lisa Gentile](https://research.ibm.com/people/anna-lisa-gentile)**, USA
+- **[Andreas Harth](https://harth.org/andreas/)**, Germany
+- **[Jeff Heflin](https://www.cse.lehigh.edu/~heflin/)**, USA
+- **[Jim Hendler](https://faculty.rpi.edu/james-hendler)**, USA
+- **[Aidan Hogan](https://aidanhogan.com/)**, Chile
+- **[Albert Meroño Peñuela](https://www.kcl.ac.uk/people/albert-merono-penuela-1)**, UK
+- **[Ian Horrocks](https://www.cs.ox.ac.uk/people/ian.horrocks/)**, UK
+- **[Lalana Kagal](https://www.csail.mit.edu/person/lalana-kagal)**, USA
+- **[Paul Groth](https://pgroth.com/)**, Netherlands
+- **[Terry Payne](https://www.liverpool.ac.uk/people/terry-payne)**, UK
+- **[Axel Polleres](https://www.wu.ac.at/en/dpkm/team/polleres)**, Austria
+- **[Harald Sack](https://www.fiz-karlsruhe.de/en/bereiche/lebenslauf-prof-dr-harald-sack)**, Germany
+- **[Elena Simperl](https://www.kcl.ac.uk/people/elena-simperl)**, UK
+- **[Valentina Presutti](https://www.istc.cnr.it/people/valentina-presutti)**, Italy
+- **[Raphael Troncy](https://www.eurecom.fr/en/people/troncy-raphael)**, France
 
 ## **Volunteers**
 
