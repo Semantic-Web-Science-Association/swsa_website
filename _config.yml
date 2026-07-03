@@ -8,8 +8,8 @@ title_separator: "-"
 description: "SWSA website"
 name: "SWSA"
 
-url: "https://semantic-web-science-association.github.io"
-baseurl: "https://swsa.semanticweb.org"
+url: "https://swsa.semanticweb.org"
+baseurl: ""
 
 collections:
   awards:
