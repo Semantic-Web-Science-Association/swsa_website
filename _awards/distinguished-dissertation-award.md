@@ -32,7 +32,7 @@ The award includes:
 
 ## How to apply
 
-Submissions must be submitted via EasyChair on or before **July 6, 2026**:
+Submissions must be submitted via EasyChair on or before <span style="color:#c62828;"><s>July 6</s> <strong>July 8, 2026</strong></span> (due to issues during a website migration we extend the deadline for two days):
 
 - EasyChair submission site: [https://easychair.org/conferences/?conf=swsadissertationawar012](https://easychair.org/conferences/?conf=swsadissertationawar012)
 
