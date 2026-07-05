@@ -13,7 +13,7 @@ The Semantic Web Science Association (SWSA) invites applications for the **SWSA 
 Eligible doctoral dissertations are those which:
 
 - present innovative research results related to the combination of **semantics, data, and the Web**,
-- were awarded a PhD strictly between **January 01, 2026 and June 30, 2026**, and
+- were awarded a PhD strictly between **January 01, 2025 and June 30, 2026**, and
 - **have not previously been nominated** for this award.
 
 The selection is based on the **originality, significance, and impact** of the work. Evidence of impact can include (but is not limited to) publications at highly selective conferences and journals in the field.
@@ -49,7 +49,7 @@ Your submission must include:
      - Evaluation methods
      - Significance, open issues, and future work
 3. **A document listing publications associated with the dissertation**, with links to the corresponding PDF files
-4. **A letter from the supervisor or institution** confirming the PhD was awarded between **January 01, 2026 and June 30, 2026**
+4. **A letter from the supervisor or institution** confirming the PhD was awarded between **January 01, 2025 and June 30, 2026**
 
 The winner will be notified in **mid August 2026**.
 
