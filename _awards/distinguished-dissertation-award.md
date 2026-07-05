@@ -2,6 +2,8 @@
 title: SWSA Distinguished Dissertation Award
 layout: single
 permalink: /awards/distinguished-dissertation-award/
+redirect_from:
+  - /content/swsa-distinguished-dissertation-award
 ---
 
 The Semantic Web Science Association (SWSA) invites applications for the **SWSA Distinguished Dissertation Award**. The award is presented during the **International Semantic Web Conference (ISWC)**.
