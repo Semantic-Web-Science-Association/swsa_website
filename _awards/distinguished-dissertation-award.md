@@ -11,7 +11,7 @@ The Semantic Web Science Association (SWSA) invites applications for the **SWSA 
 Eligible doctoral dissertations are those which:
 
 - present innovative research results related to the combination of **semantics, data, and the Web**,
-- were awarded a PhD strictly between **January 01, 2024 and June 30, 2025**, and
+- were awarded a PhD strictly between **January 01, 2026 and June 30, 2026**, and
 - **have not previously been nominated** for this award.
 
 The selection is based on the **originality, significance, and impact** of the work. Evidence of impact can include (but is not limited to) publications at highly selective conferences and journals in the field.
@@ -26,11 +26,11 @@ The award includes:
 
 - a **certificate**
 - a **€1000** payment
-- a **free registration to ISWC 2025**
+- a **free registration to ISWC 2026**
 
 ## How to apply
 
-Submissions must be submitted via EasyChair on or before **July 4, 2025**:
+Submissions must be submitted via EasyChair on or before **July 6, 2026**:
 
 - EasyChair submission site: https://easychair.org/conferences/?conf=swsadissertationawar01
 
@@ -47,13 +47,13 @@ Your submission must include:
      - Evaluation methods
      - Significance, open issues, and future work
 3. **A document listing publications associated with the dissertation**, with links to the corresponding PDF files
-4. **A letter from the supervisor or institution** confirming the PhD was awarded between **January 01, 2024 and June 30, 2025**
+4. **A letter from the supervisor or institution** confirming the PhD was awarded between **January 01, 2026 and June 30, 2026**
 
-The winner will be notified in **mid August 2025**.
+The winner will be notified in **mid August 2026**.
 
-For questions, contact: swsadissertationaward2025@easychair.org
+For questions, contact: swsadissertationaward2026@easychair.org
 
-## Award committee for 2025
+## Award committee for 2026
 
 - Harith Alani  
 - Lalana Kagal (Chair)  
