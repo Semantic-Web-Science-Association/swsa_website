@@ -34,7 +34,7 @@ The award includes:
 
 Submissions must be submitted via EasyChair on or before **July 6, 2026**:
 
-- EasyChair submission site: https://easychair.org/conferences/?conf=swsadissertationawar01
+- EasyChair submission site: [https://easychair.org/conferences/?conf=swsadissertationawar012](https://easychair.org/conferences/?conf=swsadissertationawar012)
 
 Your submission must include:
 
@@ -53,43 +53,43 @@ Your submission must include:
 
 The winner will be notified in **mid August 2026**.
 
-For questions, contact: swsadissertationaward2026@easychair.org
+For questions, contact: [swsadissertationaward2026@easychair.org](mailto:swsadissertationaward2026@easychair.org)
 
 ## Award committee for 2026
 
-- Harith Alani  
-- Lalana Kagal (Chair)  
-- Abraham Bernstein  
-- Christian Bizer  
-- Eva Blomqvist  
-- Anastasia Dimou  
-- Li Ding  
-- Anna Lisa Gentile  
-- Paul Groth  
-- Jeff Heflin  
-- Katja Hose  
-- Sabrina Kirrane  
-- Dimitris Plexousakis  
-- Sebastian Rudolph  
-- Marta Sabou  
-- Vojtěch Svátek  
-- Valentina Tamma  
-- Raphael Troncy  
-- Maria-Esther Vidal  
+- Anastasia Dimou
+- Andreas Harth
+- Anna Lisa Gentile
+- Birte Glimm
+- Christian Bizer
+- Dimitris Plexousakis
+- Fabien Gandon
+- Harith Alani
+- Jeff Heflin
+- José Luis Ambite
+- Katja Hose
+- Lalana Kagal
+- Li Ding
+- Maria-Esther Vidal
+- Paul Groth
+- Raphael Troncy
+- Sabrina Kirrane
+- Sebastian Rudolph
+- Vojtěch Svátek
 
 ## Previous awardees
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left;">Year</th>
+      <th style="text-align:left; min-width:4.5rem; white-space:nowrap;">Year</th>
       <th style="text-align:left;">Winner(s)</th>
       <th style="text-align:left;">Dissertation</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>2025</td>
+      <td style="white-space:nowrap;">2025</td>
       <td><strong>Bo Xiong</strong></td>
       <td>
         <strong>
@@ -101,7 +101,7 @@ For questions, contact: swsadissertationaward2026@easychair.org
     </tr>
 
     <tr>
-      <td>2024</td>
+      <td style="white-space:nowrap;">2024</td>
       <td><strong>Hiba Arnaout</strong></td>
       <td>
         <strong>
@@ -113,7 +113,7 @@ For questions, contact: swsadissertationaward2026@easychair.org
     </tr>
 
     <tr>
-      <td>2023</td>
+      <td style="white-space:nowrap;">2023</td>
       <td><strong>Jan Portisch</strong></td>
       <td>
         <strong>
@@ -125,7 +125,7 @@ For questions, contact: swsadissertationaward2026@easychair.org
     </tr>
 
     <tr>
-      <td>2022</td>
+      <td style="white-space:nowrap;">2022</td>
       <td><strong>Lucie-Aimée Kaffee</strong></td>
       <td>
         <strong>
@@ -137,7 +137,7 @@ For questions, contact: swsadissertationaward2026@easychair.org
     </tr>
 
     <tr>
-      <td>2021</td>
+      <td style="white-space:nowrap;">2021</td>
       <td><strong>Vito Walter Anelli</strong></td>
       <td>
         <strong>
@@ -149,7 +149,7 @@ For questions, contact: swsadissertationaward2026@easychair.org
     </tr>
 
     <tr>
-      <td>2020</td>
+      <td style="white-space:nowrap;">2020</td>
       <td><strong>Michalis Mountantonakis</strong></td>
       <td>
         <strong>
@@ -161,7 +161,7 @@ For questions, contact: swsadissertationaward2026@easychair.org
     </tr>
 
     <tr>
-      <td>2019</td>
+      <td style="white-space:nowrap;">2019</td>
       <td><strong>Petar Ristoski</strong></td>
       <td>
         <strong>
@@ -173,7 +173,7 @@ For questions, contact: swsadissertationaward2026@easychair.org
     </tr>
 
     <tr>
-      <td>2018</td>
+      <td style="white-space:nowrap;">2018</td>
       <td>
         <p style="margin:0;">(TIE)</p>
         <strong>Fariz Darari</strong><br />
@@ -194,7 +194,7 @@ For questions, contact: swsadissertationaward2026@easychair.org
     </tr>
 
     <tr>
-      <td>2017</td>
+      <td style="white-space:nowrap;">2017</td>
       <td>
         <p style="margin:0;">(TIE)</p>
         <strong>Ilaria Tiddi</strong><br />
@@ -215,7 +215,7 @@ For questions, contact: swsadissertationaward2026@easychair.org
     </tr>
 
     <tr>
-      <td>2016</td>
+      <td style="white-space:nowrap;">2016</td>
       <td><strong>Hassan Saif</strong></td>
       <td>
         <strong>
@@ -227,7 +227,7 @@ For questions, contact: swsadissertationaward2026@easychair.org
     </tr>
 
     <tr>
-      <td>2015</td>
+      <td style="white-space:nowrap;">2015</td>
       <td>
         <p style="margin:0;">(TIE)</p>
         <strong>Olaf Hartig</strong><br />
