@@ -2,6 +2,8 @@
 title: Conferences
 layout: single
 permalink: /conferences/
+redirect_from:
+  - /content/international-semantic-web-conference-iswc
 ---
 
 
@@ -33,7 +35,9 @@ Website: [https://eswc-conferences.org/](https://eswc-conferences.org/)
 
 **Location to be announced** — October/November 2027
 
-Official call: [Call to Host ISWC 2027]({{ "/host-iswc/" | relative_url }})
+### ISWC 2028
+
+Official call: [Call to Host ISWC 2028]({{ "/host-iswc/" | relative_url }})
 
 ---
 

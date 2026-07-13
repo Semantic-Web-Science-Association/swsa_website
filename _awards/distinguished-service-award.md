@@ -1,6 +1,8 @@
 ---
 title: "SWSA Distinguished Service Award"
 permalink: /awards/distinguished-service-award/
+redirect_from:
+  - /content/mike-dean-receives-swsa-special-service-award
 ---
 
 The SWSA Distinguished Service award recognizes the special services to the Semantic Web community.

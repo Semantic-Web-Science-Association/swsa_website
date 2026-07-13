@@ -3,6 +3,8 @@ title: Code of conduct for ISWC
 layout: single
 author_profile: false
 pagination: false
+redirect_from:
+  - /content/code-conduct-iswc
 ---
 
 The International Semantic Web Conference (ISWC) is organized by the Semantic Web Science Association (SWSA) as a forum to encourage rich interactions and promote the free exchange of ideas to benefit the community.  SWSA welcomes conference participants that foster inclusion and respect to all members of the community.
@@ -61,4 +63,3 @@ SWSA recommends all authors to be careful with conference ethical guidelines, wh
 - [http://geekfeminism.wikia.com/wiki/Timeline_of_incidents](http://geekfeminism.wikia.com/wiki/Timeline_of_incidents)
 - [https://implicit.harvard.edu/implicit/takeatest.html](https://implicit.harvard.edu/implicit/takeatest.html)
 - [https://www.projectcallisto.org/](https://www.projectcallisto.org/)
-

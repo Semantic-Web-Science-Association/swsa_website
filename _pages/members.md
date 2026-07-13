@@ -44,6 +44,7 @@ permalink: /members/
 - **Daniel Garijo**
 - **Nakul Mehta**
 - **Jenifer Tabita Ciuciu-Kiss**
+- **Raza Neqvi**
 
 ## **Alumni**
 
