@@ -17,6 +17,7 @@ permalink: /members/
 
 ## **Members**
 
+- **[Maribel Acosta](https://www.cs.cit.tum.de/cde/people/maribel-acosta/)**, Germany
 - **[Harith Alani](https://kmi.open.ac.uk/people/member/harith-alani)**, UK
 - **[Pierre-Antoine Champin](https://perso.liris.cnrs.fr/pierre-antoine.champin/en/)**, France
 - **[Edward Curry](https://www.insight-centre.org/our-team/dr-edward-curry/)**, Ireland
@@ -44,7 +45,7 @@ permalink: /members/
 - **Daniel Garijo**
 - **Nakul Mehta**
 - **Jenifer Tabita Ciuciu-Kiss**
-- **Raza Neqvi**
+- **Raza Naqvi**
 
 ## **Alumni**
 
