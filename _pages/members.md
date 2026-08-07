@@ -40,12 +40,6 @@ permalink: /members/
 - **[Valentina Presutti](https://www.istc.cnr.it/people/valentina-presutti)**, Italy
 - **[Raphael Troncy](https://www.eurecom.fr/en/people/troncy-raphael)**, France
 
-## **Volunteers**
-
-- **Daniel Garijo**
-- **Nakul Mehta**
-- **Jenifer Tabita Ciuciu-Kiss**
-- **Raza Naqvi**
 
 ## **Alumni**
 
