@@ -2,6 +2,7 @@
 title: "SWSA Distinguished Service Award"
 permalink: /awards/distinguished-service-award/
 redirect_from:
+  - /content/swsa-distinguished-service-award
   - /content/mike-dean-receives-swsa-special-service-award
 ---
 
