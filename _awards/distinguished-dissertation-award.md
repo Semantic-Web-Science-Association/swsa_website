@@ -6,6 +6,8 @@ redirect_from:
   - /content/swsa-distinguished-dissertation-award
 ---
 
+**We are pleased to announce that the 2026 SWSA Distinguished Dissertation Award goes to Tobias John with <a href="https://www.nb.no/items/143a507760baaeb92ec5f3cbd8578540" target="_blank" rel="noopener">Test Case Generation for Knowledge Graph Applications</a>.**
+
 The Semantic Web Science Association (SWSA) invites applications for the **SWSA Distinguished Dissertation Award**. The award is presented during the **International Semantic Web Conference (ISWC)**.
 
 ## Eligibility
@@ -58,7 +60,7 @@ For questions, contact: [swsadissertationaward2026@easychair.org](mailto:swsadis
 ## Award committee for 2026
 
 - Anastasia Dimou
-- Andreas Harth
+- Andreas Harth (chair)
 - Anna Lisa Gentile
 - Birte Glimm
 - Christian Bizer
@@ -68,7 +70,7 @@ For questions, contact: [swsadissertationaward2026@easychair.org](mailto:swsadis
 - Jeff Heflin
 - José Luis Ambite
 - Katja Hose
-- Lalana Kagal
+- Lalana Kagal (chair)
 - Li Ding
 - Maria-Esther Vidal
 - Paul Groth
