@@ -6,6 +6,7 @@ redirect_from:
   - /content/swsa-distinguished-dissertation-award
 ---
 
+
 **We are pleased to announce that the 2026 SWSA Distinguished Dissertation Award goes to Tobias John with <a href="https://www.nb.no/items/143a507760baaeb92ec5f3cbd8578540" target="_blank" rel="noopener">Test Case Generation for Knowledge Graph Applications</a>.**
 
 The Semantic Web Science Association (SWSA) invites applications for the **SWSA Distinguished Dissertation Award**. The award is presented during the **International Semantic Web Conference (ISWC)**.
@@ -78,6 +79,32 @@ For questions, contact: [swsadissertationaward2026@easychair.org](mailto:swsadis
 - Sabrina Kirrane
 - Sebastian Rudolph
 - Vojtěch Svátek
+
+## Current awardee
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left; min-width:4.5rem; white-space:nowrap;">Year</th>
+      <th style="text-align:left;">Winner(s)</th>
+      <th style="text-align:left;">Dissertation</th>
+    </tr>
+  </thead>
+  <tbody>
+
+    <tr>
+      <td style="white-space:nowrap;">2026</td>
+      <td><strong>Tobias John</strong></td>
+      <td>
+        <strong>
+          <a href="https://www.nb.no/items/143a507760baaeb92ec5f3cbd8578540" target="_blank" rel="noopener">
+            Test Case Generation for Knowledge Graph Applications
+          </a>
+        </strong>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Previous awardees
 
