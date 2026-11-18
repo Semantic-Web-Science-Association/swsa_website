@@ -27,9 +27,9 @@ SWSA has become the steward of ESWC in June 2025. More information about the con
 
 ### ESWC 2027
 
-**Location and dates to be announced**
+**Limassol, Cyprus** — May 23–27, 2027
 
-Website: [https://eswc-conferences.org/](https://eswc-conferences.org/)
+Website: [https://2027.eswc-conferences.org/](https://2027.eswc-conferences.org/)
 
 ### ISWC 2027
 
@@ -94,6 +94,12 @@ Chairs:
   {% endif %}
 
 </div>
+{% endif %}
+
+{% if c.statistics %}
+
+{{ c.statistics }}
+
 {% endif %}
 
 <hr style="margin:1.5rem 0">

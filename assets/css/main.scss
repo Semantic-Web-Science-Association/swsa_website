@@ -136,6 +136,11 @@ search: false
   overflow-x: auto;
 }
 
+.page__content .ten-year-awardees :is(th, td):first-child {
+  min-width: 4rem;
+  white-space: nowrap;
+}
+
 .page__footer {
   margin-top: var(--section-gap);
 }
