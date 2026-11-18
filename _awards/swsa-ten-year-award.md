@@ -12,7 +12,7 @@ The SWSA Ten-Year Award recognizes the highest impact papers from the ISWC proce
 
 **Criteria:** The primary criteria will be the number of citations to the paper in ten years. We will use Google Scholar. While citation count will be the primary criteria, the panel will also consider other impact factors for the top-cited papers. If two or more papers are very close, more than one paper may be honored. The determination is done in the Spring of the calendar year for the conference.
 
-**Award committee:** The award committee is chaired by the SWSA President and consists of the general chair and program chairs for the current ISWC.
+**Award committee:** The award committee is chaired by the SWSA Vice-President for ISWC and consists of the general chair and program chairs for the current ISWC.
 
 **Announcing and accepting the award:** The award is presented at the ISWC Opening ceremony. The awardees are informed privately in the Spring preceding the conference to enable them to make travel arrangements. However, the public announcement is made at the conference. SWSA does not pay for the awardee travel. Awardees can give a 5-10 minute presentation highlighting the contribution of the paper and why they think it created so much impact. Awardees will be invited to write a short note for the Journal of Web Semantics reflecting on their work being honored and its impact on the field and their own research.
 
@@ -22,7 +22,7 @@ The SWSA Ten-Year Award recognizes the highest impact papers from the ISWC proce
 
 ## Awardees
 
-<table>
+<table class="ten-year-awardees">
   <thead>
     <tr>
       <th style="text-align:left;">Year</th>
