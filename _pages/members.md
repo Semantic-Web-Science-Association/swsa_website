@@ -76,7 +76,7 @@ permalink: /members/
 
 SWSA is grateful to all volunteers who help deliver the two conferences and other activities each year as well as to the following researchers for helping with the digital infrastructure:
 
-- **[Jenifer Tabita Ciuciu-Kiss](https://jeniferciuciukiss.com/?utm_source=swsa)**
-- **Daniel**
+- **Jenifer Tabita Ciuciu-Kiss**
+- **Daniel Garijo**
 - **Nakul Mehta**, University of Galway, Ireland
 - **Amelie Gyrard**, Trialog, France
