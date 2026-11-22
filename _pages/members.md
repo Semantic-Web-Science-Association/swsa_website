@@ -11,10 +11,6 @@ permalink: /members/
 - **Secretary:** **[Edward Curry](https://www.insight-centre.org/our-team/dr-edward-curry/)**, Ireland 
 - **Treasurer:** **[Harald Sack](https://www.fiz-karlsruhe.de/en/bereiche/lebenslauf-prof-dr-harald-sack)**, Germany
 
-## **Board Support**
-
-- **Eleanor Walkington-Ellis**, UK
-
 ## **Members**
 
 - **[Maribel Acosta](https://www.cs.cit.tum.de/cde/people/maribel-acosta/)**, Germany
@@ -75,3 +71,12 @@ permalink: /members/
 - **York Sure-Vetter**, Germany
 - **Katia Sycara**, USA
 - **Chris Welty**, USA
+
+## SWSA volunteers
+
+SWSA is grateful to all volunteers who help deliver the two conferences and other activities each year as well as to the following researchers for helping with the digital infrastructure:
+
+- **Jenifer Tabita Ciuciu-Kiss**
+- **Daniel Garijo**
+- **Nakul Mehta**, University of Galway, Ireland
+- **Amelie Gyrard**, Trialog, France

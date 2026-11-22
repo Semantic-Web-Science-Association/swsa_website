@@ -10,7 +10,7 @@ permalink: /contact/
   <div class="contact-form">
     <h2>Send us a message</h2>
 
-    <form id="contact-form" action="mailto:swsa-feedback@lists.kit.edu" method="post" enctype="text/plain">
+    <form id="contact-form" action="mailto:feedback@swsa.semanticweb.org" method="post" enctype="text/plain">
       <label>
         Your name
         <input type="text" name="name" required>
@@ -52,7 +52,7 @@ permalink: /contact/
           formData.get("message")
         ].join("\n");
 
-        window.location.href = `mailto:swsa-feedback@lists.kit.edu?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+        window.location.href = `mailto:feedback@swsa.semanticweb.org?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
       });
     </script>
   </div>
@@ -72,8 +72,8 @@ permalink: /contact/
     <br><br>
 
     <strong>Email</strong><br>
-    <a href="mailto:swsa-feedback@lists.kit.edu">
-      swsa-feedback@lists.kit.edu
+    <a href="mailto:feedback@swsa.semanticweb.org">
+      feedback@swsa.semanticweb.org
     </a>
 
     <br><br>

@@ -19,17 +19,22 @@ The [Semantic Web Conference Corpus](http://scholarlydata.org/) provides access 
 
 ## Extended Semantic Web Conference (ESWC)
 
-SWSA has become the steward of ESWC in June 2025. More information about the conference series can be found [here](https://eswc-conferences.org/index.html).
+SWSA became the steward of ESWC in June 2025. Visit the [ESWC series website](https://eswc-conferences.org/index.html) for more information or the [ESWC hosting page]({{ "/host-eswc/" | relative_url }}) for the hosting guide.
 
 ---
 
 ## Upcoming conferences
 
-### ESWC 2027
+### Extended Semantic Web Conference (ESWC 2027)
 
-**Location and dates to be announced**
+**Limassol, Cyprus** — May 23–27, 2027
 
-Website: [https://eswc-conferences.org/](https://eswc-conferences.org/)
+Website: [https://2027.eswc-conferences.org/](https://2027.eswc-conferences.org/)
+
+Chairs:
+
+- General Chair: Raphaël Troncy
+- Local Chair: George Angelos Papadopoulos
 
 ### ISWC 2027
 
@@ -73,7 +78,7 @@ Chairs:
   {% if c.papers_accepted and c.papers_submitted %}
     {% assign acc = c.papers_accepted | times: 100.0 | divided_by: c.papers_submitted %}
     <span style="padding:.25rem .6rem;border:1px solid rgba(0,0,0,.15);border-radius:999px;font-size:.9em;background:rgba(0,0,0,.03)">
-      📄 {{ c.papers_accepted }}/{{ c.papers_submitted }} papers ({{ acc | round: 1 }}%)
+      📄 {{ c.papers_accepted }}/{{ c.papers_submitted }} papers ({{ acc | round: 2 }}%)
     </span>
   {% elsif c.papers_accepted %}
     <span style="padding:.25rem .6rem;border:1px solid rgba(0,0,0,.15);border-radius:999px;font-size:.9em;background:rgba(0,0,0,.03)">
@@ -94,6 +99,12 @@ Chairs:
   {% endif %}
 
 </div>
+{% endif %}
+
+{% if c.statistics %}
+
+{{ c.statistics }}
+
 {% endif %}
 
 <hr style="margin:1.5rem 0">

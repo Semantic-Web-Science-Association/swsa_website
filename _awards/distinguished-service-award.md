@@ -11,6 +11,14 @@ The SWSA Distinguished Service award recognizes the special services to the Sema
 <table>
   <tbody>
     <tr>
+      <td>2026</td>
+      <td>Natasha Noy</td>
+    </tr>
+    <tr>
+      <td>2025</td>
+      <td>Dieter Fensel</td>
+    </tr>
+    <tr>
       <td>2023</td>
       <td>Jim Hendler</td>
     </tr>
