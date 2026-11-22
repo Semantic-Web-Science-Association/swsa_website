@@ -17,7 +17,7 @@ The [Code of conduct for ISWC]({{ "/content/code-of-conduct/" | relative_url }})
 
 The [Semantic Web Conference Corpus](http://scholarlydata.org/) provides access to information about all ISWC conferences in RDF. You can browse and search information on papers that were presented, people who attended, and other things that have to do with the main conferences and workshops.
 
-## European Semantic Web Conference (ESWC)
+## Extended Semantic Web Conference (ESWC)
 
 SWSA became the steward of ESWC in June 2025. Visit the [ESWC series website](https://eswc-conferences.org/index.html) for more information or the [ESWC hosting page]({{ "/host-eswc/" | relative_url }}) for the hosting guide.
 
@@ -25,7 +25,7 @@ SWSA became the steward of ESWC in June 2025. Visit the [ESWC series website](ht
 
 ## Upcoming conferences
 
-### European Semantic Web Conference (ESWC 2027)
+### Extended Semantic Web Conference (ESWC 2027)
 
 **Limassol, Cyprus** — May 23–27, 2027
 
